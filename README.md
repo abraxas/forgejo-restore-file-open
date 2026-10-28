@@ -13,6 +13,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/abraxas/forgejo-restore-file-open">forgejo-restore-file-open</a>
 </p>
+<p align="center">
+  Write-up: <a href="https://abraxaslabs.tech/research/forgejo-restore-file-open"><strong>https://abraxaslabs.tech/research/forgejo-restore-file-open</strong></a>
+</p>
+
 
 # forgejo-restore-file-open
 
